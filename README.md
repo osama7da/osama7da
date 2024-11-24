@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osama Daoud
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning to be a MERN Stack Developer
+- 🌱 I’m currently learning to be a .NET Developer
 - 💞️ I’m looking to collaborate with anyone on pretty much any tech project.
 
 - 📫 How to reach me www.linkedin.com/in/osama-daoud-57902b299
